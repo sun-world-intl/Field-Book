@@ -624,6 +624,8 @@ class Migrator {
                         "date_import" to "Text",
                         "date_edit" to "Text",
                         "date_export" to "Text",
+                        "date_sync" to "Text",
+                        "import_format" to "Text",
                         "study_source" to "Text",
                         "additional_info" to "Text",
                         "location_db_id" to "Text",
